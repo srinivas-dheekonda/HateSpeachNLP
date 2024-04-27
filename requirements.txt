@@ -1,0 +1,14 @@
+numpy
+pandas
+tensorflow==2.16.1
+matplotlib
+seaborn
+nltk
+regex
+scikit-learn
+from-root
+google-cloud-storage
+fastapi==0.78.0
+#uvcorn==2.0.1
+Jinja2==3.1.2
+-e . # to install local packages
