@@ -1,5 +1,14 @@
 # HateSpeachNLP
 
+## Project Work Flow
+- Constants
+- Config_Entity
+- Artifact_Entity
+- Components
+- Pipeline
+- Main
+
+
 ## how to run
 
 ```bash
